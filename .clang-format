@@ -1,0 +1,7 @@
+# 贴合 4-3~4-11.c 现有代码风格
+IndentWidth: 4
+UseTab: Never
+BreakBeforeBraces: Linux
+IndentCaseLabels: false
+ColumnLimit: 0
+SortIncludes: false
